@@ -1,0 +1,1 @@
+label = "CREATE A NEW CHARACTER"

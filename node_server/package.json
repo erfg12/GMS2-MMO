@@ -1,0 +1,12 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat nodejs project",
+  "main": "app.js",
+  "dependencies": {
+    "net": "^1.0.2"
+  },
+  "scripts": { 
+    "start" : "node app.js" 
+  }
+}

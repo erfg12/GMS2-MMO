@@ -1,0 +1,19 @@
+Font font0 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font0\font0.gms1.png
+Converting GML script: ${project_dir}\objects\username_input_obj\Create_0.gml
+Converted description /// @description Text Input Create Script
+
+Converting GML script: ${project_dir}\objects\password_input_obj\Create_0.gml
+Converted description /// @description Text Input Create Script
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,1 @@
+label = "SELECT A CHARACTER"
